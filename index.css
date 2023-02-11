@@ -1,0 +1,40 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background-image: url(back-image.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.dog
+{
+    position: absolute;
+    top: 55%;
+}
+.dog img
+{
+    width: 300px;
+}
+.cat
+{
+    position: absolute;
+    top: 60%;
+}
+.cat img
+{
+    width: 200px;
+}
+.rat
+{
+    position: absolute;
+    top: 70%;
+}
+.rat img
+{
+    width: 200px;
+}
